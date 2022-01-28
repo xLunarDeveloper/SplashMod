@@ -1,3 +1,5 @@
 # SplashMod
-## __SplashMod Forge Mod__
-_Adds SplashGem and Emerald items on minecraft_
+## Features
+- Adds emerald tools ( + hammer ) to mc
+- Adds many ores 
+- Adds SplashGem ore
